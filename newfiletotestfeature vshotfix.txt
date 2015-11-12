@@ -1,2 +1,2 @@
-featurechangedthis=y
+featurechangedthis=changedbyfeature2
 z=e
