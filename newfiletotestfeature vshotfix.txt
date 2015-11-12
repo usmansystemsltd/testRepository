@@ -1,2 +1,2 @@
-x=yhotfixaddedthis
-z=ehotfixaddthisaswell
+featurechangedthis=y
+z=e
